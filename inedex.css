@@ -1,0 +1,23 @@
+
+
+.container{
+    display: grid;
+    width: 100%;
+
+}
+
+.hh{
+    display:flex;
+    justify-content: space-between;
+    padding: 4%;
+    
+}
+
+.hh > a{
+    text-decoration: none;
+    border: 1px solid green;
+    width: 10%;
+    height: 115%;
+    text-align: center;
+    
+}
